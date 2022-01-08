@@ -19,3 +19,6 @@ mediapipe 와 opencv의 게임과의 결합이 제일 중요
 ![image](https://user-images.githubusercontent.com/90584136/148628078-81fc5a86-82e4-4973-9d20-9cb6f24b9d96.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628082-63ac0d45-30c5-4ac5-8230-d364e7cefebc.png)
 ![image](https://user-images.githubusercontent.com/90584136/148628090-5f61ee47-5c24-4871-a56e-d4a7a5d9fcd7.png)
+명함,문서 인식
+꽃,사람 인식.
+이미지 번역. 시각장애인의 눈
